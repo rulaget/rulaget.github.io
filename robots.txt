@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://rulaget.github.io/sitemap.xml
+Sitemap: https://rulaget.github.io/sitemap/sitemap-1.xml
+Sitemap: https://rulaget.github.io/sitemap/sitemap-2.xml
+Sitemap: https://rulaget.github.io/sitemap/sitemap-3.xml
+Sitemap: https://rulaget.github.io/sitemap/sitemap-4.xml
+Sitemap: https://rulaget.github.io/sitemap/sitemap-5.xml
